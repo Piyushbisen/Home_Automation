@@ -30,5 +30,18 @@ Material required for the IoT project
 ![combo-of-breadboard-jumper-wire-male-to-male-techwiz-original-imaffncmnvhwnchm](https://user-images.githubusercontent.com/48655841/125481884-6828a3f6-a12e-4e71-954d-65f01e2e1309.jpeg)
 
 
+Circuit diagram for Home automation
+Flow the circuit diagram for making the home automation system.
+
+GPIO 0 -> Relay IN 1
+
+GPIO 2 -> Relay IN 2
+
+We will use 5 volts input supply for driving the Relay Module and 3.3 Volts Input for the ESP8266.
+
+![Circuit](https://user-images.githubusercontent.com/48655841/125482946-ee95b310-c15e-4468-8df7-cbd9ea071ef1.png)
+
+
+
 
 
