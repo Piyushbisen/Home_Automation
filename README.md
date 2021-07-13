@@ -11,7 +11,8 @@ Material required for the IoT project
 
 3. One(1) 2-Channel Relay Module
 
-![Uploading Circuit.png…]()
+![Relay-2-Channel-1-500x397](https://user-images.githubusercontent.com/48655841/125482083-a4aae1b4-29a7-406e-bb1b-beec52adbfd2.jpeg)
+
 
 4. Breadboard with some wires.
 
