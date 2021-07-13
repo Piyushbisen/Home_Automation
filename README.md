@@ -9,6 +9,9 @@ Material required for the IoT project
 
 2. 2 AC Appliances
 
+![61BdGW9zcBL _SL1500_](https://user-images.githubusercontent.com/48655841/125482598-60dfb840-e2f5-4ac4-b799-42c68ce76bb5.jpg)
+
+
 3. One(1) 2-Channel Relay Module
 
 ![Relay-2-Channel-1-500x397](https://user-images.githubusercontent.com/48655841/125482083-a4aae1b4-29a7-406e-bb1b-beec52adbfd2.jpeg)
